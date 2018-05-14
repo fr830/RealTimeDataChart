@@ -1,0 +1,80 @@
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\RealTimeWeighChart.exe.config
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.csprojResolveAssemblyReference.cache
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\MainWindow.baml
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\MainWindow.g.cs
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\App.g.cs
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart_MarkupCompile.cache
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.g.resources
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.Properties.Resources.resources
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.csproj.GenerateResource.Cache
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.exe.licenses
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\RealTimeWeighChart.exe
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\RealTimeWeighChart.pdb
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DynamicDataDisplay.pdb
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.exe
+c:\users\arge-1\documents\visual studio 2013\Projects\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.pdb
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\RealTimeWeighChart.exe.config
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.exe
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.pdb
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\RealTimeWeighChart.exe
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\RealTimeWeighChart.pdb
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.csprojResolveAssemblyReference.cache
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\MainWindow.baml
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\MainWindow.g.cs
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\App.g.cs
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart_MarkupCompile.cache
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.g.resources
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.Properties.Resources.resources
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.csproj.GenerateResource.Cache
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\RealTimeWeighChart.exe.licenses
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Mvvm.v14.1.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Xpf.Core.v14.1.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Xpf.Docking.v14.1.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Xpf.Grid.v14.1.Core.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Xpf.Grid.v14.1.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Xpf.Layout.v14.1.Core.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Mvvm.v14.1.xml
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Xpf.Core.v14.1.xml
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Xpf.Docking.v14.1.xml
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Xpf.Grid.v14.1.xml
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Xpf.Grid.v14.1.Core.xml
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\DevExpress.Xpf.Layout.v14.1.Core.xml
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\de\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\es\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\ja\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\ru\DevExpress.Xpf.Core.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\de\DevExpress.Xpf.Docking.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\es\DevExpress.Xpf.Docking.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\ja\DevExpress.Xpf.Docking.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\ru\DevExpress.Xpf.Docking.v14.1.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\de\DevExpress.Xpf.Grid.v14.1.Core.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\es\DevExpress.Xpf.Grid.v14.1.Core.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\ja\DevExpress.Xpf.Grid.v14.1.Core.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\ru\DevExpress.Xpf.Grid.v14.1.Core.resources.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\System.Data.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\System.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\System.Drawing.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\System.Management.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\System.ServiceModel.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\System.Xaml.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\System.Xml.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\System.Xml.Linq.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\UIAutomationProvider.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\bin\Debug\UIAutomationTypes.dll
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\MainWindowv2.baml
+C:\Users\Arge-1\Desktop\RealTimeWeighChart\RealTimeWeighChart\obj\Debug\MainWindowv2.g.cs
